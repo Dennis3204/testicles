@@ -1,0 +1,29 @@
+THINGS TO DO -
+
+make logic for order of operations
+find a way to append the cin to a list and iterate through it with conditionals
+create a function that 
+
+
+make a queue to store all of the values that the 
+
+if (isdigit)
+for (i in string)
+  for (z in operations) 
+    if string.i = operations.z 
+      vector.append i
+      vector.append z
+
+
+else ()
+
+  for (i in string)
+    for (z in operations)
+
+      if (string.i = operations .z)
+
+        var = string.i
+
+
+for (i in string)
+
