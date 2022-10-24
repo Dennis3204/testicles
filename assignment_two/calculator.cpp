@@ -33,12 +33,12 @@ int sort() {
 
 int main() {
 
-vector<string> oper = []
+vector<string> oper;
 int valid;
 float sum = 2;
 
 
-int num1,num2,total;
+int num1,num2,total,x;
 
 
 cout << "what do you want to do?";

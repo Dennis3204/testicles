@@ -6,6 +6,11 @@
     "vector": "cpp",
     "istream": "cpp",
     "string": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "xlocale": "cpp",
+    "queue": "cpp",
+    "algorithm": "cpp",
+    "limits": "cpp",
+    "utility": "cpp"
   }
 }
